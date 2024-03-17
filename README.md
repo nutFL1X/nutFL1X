@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nutFL1X/nutFL1X/output/snake.yml" alt="Snake animation" />
-
-###
